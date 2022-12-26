@@ -1,0 +1,25 @@
+body {
+  background-color: #EAF6F6;
+  color: black;
+}
+/*#66BFBF  */
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #c7c7c7;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+h2,h3 {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  color: #66BFBF;
+}
